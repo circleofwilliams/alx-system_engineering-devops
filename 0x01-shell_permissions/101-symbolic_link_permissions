@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff ln -s home _home
+chown -h vincent:staff _home
