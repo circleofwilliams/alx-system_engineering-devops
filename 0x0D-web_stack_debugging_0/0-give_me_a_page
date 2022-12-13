@@ -1,0 +1,3 @@
+#!/bin/env bash
+#script that turns on Apache server, allowing page rendition on http request
+service apache2 start
