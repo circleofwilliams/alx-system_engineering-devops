@@ -1,2 +1,3 @@
-## API
-This folder test for knowledge on API in general and the REST API specifically. it contains python scripts to interact and perform various activities via an API
+# API
+
+This folder contains scripts that test for knowledge on how to access contents with api, specifically the predictable REST API
